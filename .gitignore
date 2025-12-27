@@ -1,0 +1,15 @@
+# Python virtual environment
+Project_FastApi/
+venv/
+env/
+__pycache__/
+
+# React dependencies
+node_modules/
+frontend/node_modules/
+
+# Secrets and Config
+.env
+
+# Database
+*.db
